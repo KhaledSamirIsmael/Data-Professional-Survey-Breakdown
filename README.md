@@ -1,5 +1,5 @@
 # Data-Professional-Survey-Breakdown-Dashboard
-This project, Data Professional Survey Breakdown Analysis is based on :
+This project, Data Professional Survey Breakdown Analysis is based on:
 Data Professional Survey That can be categorized by 
 * Which Country do you live in?
 * Job Title  
